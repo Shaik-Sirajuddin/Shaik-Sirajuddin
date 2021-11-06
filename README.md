@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shaik-Sirajuddin
 - 👀 I’m interested in Softwares
-- 🌱 I’m currently learning Android
-
+- 🌱 I’m an professional android developer.
+- I also have experience in web development.
 
 <!---
 Shaik-Sirajuddin/Shaik-Sirajuddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
