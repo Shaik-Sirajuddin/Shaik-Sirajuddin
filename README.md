@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaik-Sirajuddin
 - 👀 I’m interested in Softwares
-- 🌱 I’m an professional android developer.
+- 🌱 I’m an professional Android developer | Blockchain Developer.
 - I also have experience in web development.
 
 <!---
