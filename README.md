@@ -1,15 +1,27 @@
-👋 Hi, I’m @Shaik-Sirajuddin , a software developer with a passion for native Android development and Flutter, as well as web3 , full stack development. I am always interested in learning new frameworks and technologies, as well as following the best coding practices and collaborating with the community to develop innovative software applications.
+<h1 align="center">Hi 👋, I'm Shaik Sirajuddin</h1>
+<h3 align="start"></h3>
 
-As a Flutter and native Android developer, I have a deep understanding of mobile app development and am passionate about creating robust, user-friendly apps that deliver seamless experiences. I'm also a Web3 developer, with expertise in blockchain technology and decentralized applications.
+- 🌱 Currently Learning <b> Flutter , Defi </b>
 
-In addition to my technical skills, I am also skilled in algorithmic problem solving and enjoy participating in programming competitions on platforms like Codeforces. I am currently pursuing a Bachelor of Technology degree in Computer Science and Engineering and have been programming for two years.
+- 🌱 Pursuing  **Btech  , 1st year**
 
-During my early stages of programming journey , I developed a real-time application for university students to manage their study materials, which provided me with valuable experience in creating efficient and user-friendly applications.( Link : https://play.google.com/store/apps/details?id=com.puccontent.org ) 
+- 👨‍💻 All of my projects are available at [https://sirajuddin.in](https://sirajuddin.in)
 
+- 💬 Ask me about **Native Android , Flutter**
 
-I am now looking forward to contributing to open-source projects to sharpen my skills further and collaborate with other developers to create exceptional software solutions.
+- 📫 How to reach me **sirajuddinshaik30@gmail.com**
 
-<!---
-Shaik-Sirajuddin/Shaik-Sirajuddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+<a href="https://linkedin.com/in/siraj--uddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siraj--uddin" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sirajuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sirajuddin" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sirajuddinshaik30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sirajuddinshaik30" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaik-sirajuddin&show_icons=true&locale=en&layout=compact" alt="shaik-sirajuddin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaik-sirajuddin&show_icons=true&locale=en" alt="shaik-sirajuddin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaik-sirajuddin&" alt="shaik-sirajuddin" /></p>
