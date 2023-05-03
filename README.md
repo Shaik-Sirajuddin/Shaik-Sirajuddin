@@ -3,7 +3,7 @@
 
 - 🌱 Currently Learning <b> Flutter , Defi </b>
 
-- 🌱 Pursuing  **Btech  , 1st year**
+- 🌱 Pursuing  **Btech**
 
 - 👨‍💻 All of my projects are available at [https://sirajuddin.in](https://sirajuddin.in)
 
