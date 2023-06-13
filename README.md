@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaik Sirajuddin</h1>
 <h3 align="start"></h3>
 
-- 🌱 Currently Learning <b> Defi ( Blockchain ) </b>
+- 🌱 Currently Learning and Working on <b> Defi ( Blockchain ) </b>
 
 - 🌱 Pursuing  **Btech**
 
