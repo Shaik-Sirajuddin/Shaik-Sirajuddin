@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shaik Sirajuddin</h1>
 <h3 align="start"></h3>
 
-- 🌱 Currently Learning and Working on <b> Defi ( Blockchain ) </b>
-
-- 🌱 Pursuing  **Btech**
-
-- 👨‍💻 All of my projects are available at [https://sirajuddin.in](https://sirajuddin.in)
-
-- 💬 Ask me about **Native Android , Flutter , Solidity**
-
+- 🌱 Freelance Software Developer
+- 🌱 Currently Contribution to <b>Open Source</b> , Working on Centralized Exchanges
+- 💬 Ask me about **Android , Node JS , ORM'S , MYSQL**
 - 📫 How to reach me **sirajuddinshaik30@gmail.com**
 
 <p align="left">
