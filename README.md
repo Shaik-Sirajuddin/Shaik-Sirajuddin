@@ -2,8 +2,8 @@
 <h3 align="start"></h3>
 
 - 🌱 Freelance Software Developer
-- 🌱 Currently Contribution to <b>Open Source</b> , Working on Centralized Exchanges
-- 💬 Ask me about **Android , Node JS , ORM'S , MYSQL**
+- 🌱 Currently Working on Centralized Exchanges
+- 💬 Ask me about **Web3 , Backend**
 - 📫 How to reach me **sirajuddinshaik30@gmail.com**
 
 <p align="left">
