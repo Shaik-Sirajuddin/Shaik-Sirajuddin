@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shaik Sirajuddin</h1>
-<h3 align="start"></h3>
-
 - Software Developer at ChainSystems
 - Currently developing using **Typescript** , **Go**
 - Worked on Flutter , Kotlin , React Projects
-- 💬 Ask me about **Web3 , Backend**
-- 📫 How to reach me **sirajuddinshaik30@gmail.com**
+-  Ask me about **Web3 , Backend**
 
 <h5 align="left">Contacts:</h5>
 
