@@ -1,7 +1,8 @@
-- Software Developer at ChainSystems
-- Currently developing using **Typescript** , **Go**
+- Using Go for backend , clis.
+- Developing using **Typescript** for Frontend 
 - Worked on Flutter , Kotlin , React Projects
--  Ask me about **Web3 , Backend**
+- Software Developer at ChainSystems
+- Ask me about **Web3 , Backend**
 
 <h5 align="left">Contacts:</h5>
 
