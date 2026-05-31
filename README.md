@@ -1,7 +1,7 @@
 - Using Go for backend , clis.
-- Devloping though **Agentic Engineering** 
-- Developing using **Typescript** for Frontend 
-- Worked on Flutter , Kotlin , React Projects
+- Devloping though **Agentic Engineering**
+
+- Worked on Flutter , Kotlin , React Typescipt Projects
 - Software Developer at ChainSystems
 - Ask me about **Web3 , Backend**
 
