@@ -37,7 +37,7 @@
     </td>
     <td>
       <a href="https://auth.geeksforgeeks.org/user/sirajuddinshaik30">
-        <img src="https://www.geeksforgeeks.org/favicon.ico" alt="GeeksforGeeks" width="38" height="38" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="38" height="38" />
       </a>
     </td>
   </tr>
