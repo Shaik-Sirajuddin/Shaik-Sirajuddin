@@ -31,13 +31,13 @@
       </a>
     </td>
     <td>
-      <a href="https://codeforces.com/profile/sirajuddin">
-        <img src="https://codeforces.com/favicon.ico" alt="Codeforces" width="38" height="38" />
-      </a>
-    </td>
-    <td>
       <a href="https://auth.geeksforgeeks.org/user/sirajuddinshaik30">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="38" height="38" />
+      </a>
+    </td>
+     <td>
+      <a href="https://codeforces.com/profile/sirajuddin">
+        <img src="https://codeforces.com/favicon.ico" alt="Codeforces" width="38" height="38" />
       </a>
     </td>
   </tr>
