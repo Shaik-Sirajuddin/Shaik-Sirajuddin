@@ -1,7 +1,7 @@
 <div align="left">
 
 <p>
-  • Using Go for backend , clis.<br/>
+  • Using Go for backend , cli's.<br/>
   • Sailing on <b>LINUX</b> <br/>
   • Devloping though <b>Agentic Engineering</b><br/>
   • Worked on Flutter , Kotlin , React Typescipt Projects<br/>
