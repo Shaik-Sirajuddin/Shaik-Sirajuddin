@@ -16,8 +16,6 @@ Been working across various layers of modern software
 
 <hr/>
 
-<hr/>
-
 <h3>✨ Highlights</h3>
 
 <p>
@@ -29,9 +27,6 @@ Been working across various layers of modern software
 • Built and launched an Android study-material app with <b>10K+ downloads</b>
 </p>
 
-<hr/>
-
-<h3>🛠️ Tech Stack</h3>
 
 <hr/>
 
