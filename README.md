@@ -29,19 +29,9 @@ Been working across various layers of modern software
 • Built and launched an Android study-material app with <b>10K+ downloads</b>
 </p>
 
-<h3>🚀 What I Work On</h3>
-
-<p>
-• Backend systems with Go, Node.js, MySQL, PostgreSQL, Redis, and WebSockets<br/>
-• Cloud deployments with AWS, Kubernetes, Docker, Helm, and GitHub Actions<br/>
-• Solana programs, Anchor, and Rust smart contracts<br/>
-• AI agent tooling, MCP, PTY/TUI workflows, and Linux automation
-</p>
-
 <hr/>
 
 <h3>🛠️ Tech Stack</h3>
-
 
 <hr/>
 
@@ -74,20 +64,6 @@ MCP • PTY/TUI • Claude Code • Codex • Gemini CLI • Linux
 • <b>Cal.com</b> — 13+ PRs across scheduling infrastructure<br/>
 • <b>Grafana MCP</b> — datasource integrations and fixes in Go<br/>
 • <b>Mastra AI</b> — observability and tracing improvements
-</p>
-
-<hr/>
-<h3>📌 Featured Projects</h3>
-
-<p>
-<b>Omni — AI Agent Supervisor</b><br/>
-Go • MCP • PTY/TUI • Docker • Linux
-
-<br/>
-
-<b>PUC Content App</b><br/>
-Kotlin • Android • Firebase<br/>
-10K+ Downloads • 2K+ Daily Active Users
 </p>
 
 <hr/>
