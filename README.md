@@ -6,7 +6,7 @@
 <p>
 A Software Developer coding from India
 
-Comfortable in learining new technologies by reasoinng throufh performance and business impacts
+Comfortable in learining new technologies by resoning thorugh performance and business impacts
 and adopting them in applications
 
 Been working across various layers of modern software
