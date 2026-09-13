@@ -6,16 +6,6 @@
 <p>
 A Software Developer coding from India
 
-Comfortable in learining new technologies by resoning thorugh performance and business impacts
-and adopting them in applications
-
-Been working across various layers of modern software
-<b>Go backend systems</b>, <b>cloud infrastructure</b>,
-<b>blockchain platforms</b>, and <b>agentic engineering</b>.
-</p>
-
-<hr/>
-
 <h3>✨ Highlights</h3>
 
 <p>
